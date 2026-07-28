@@ -1,0 +1,7 @@
+honeypot-platform/venv/
+honeypot-platform/.venv/
+honeypot-platform/__pycache__/
+honeypot-platform/**/__pycache__/
+honeypot-platform/.env
+honeypot-dashboard/node_modules/
+honeypot-dashboard/dist/
