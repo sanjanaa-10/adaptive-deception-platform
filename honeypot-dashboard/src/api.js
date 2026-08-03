@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8000'
+const BASE_URL = 'https://adaptive-deception-platform.onrender.com'
 
 let token = localStorage.getItem('honeypot_token') || null
 
